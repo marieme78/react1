@@ -19,6 +19,7 @@ function App() {
           </Nav>
         </Container>
       </Navbar>
+      <Card body><h3 className="monh">Voici mon projet React avec un titre,3 cards et une Navbar</h3></Card>
       <div className="nono">
         <Card style={{ width: "18rem", height: "545px", marginLeft: "300px" }}>
           <Card.Img
